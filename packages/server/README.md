@@ -20,4 +20,8 @@ bunx prisma init
 
 ### Migrations
 
-bunx prisma migrate dev 
+bunx prisma migrate dev
+
+### Generate Migrations
+
+bunx prisma generate
